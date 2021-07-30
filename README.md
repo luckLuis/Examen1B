@@ -8,6 +8,15 @@
 
 ![credenciales](https://user-images.githubusercontent.com/58127103/127719308-a821c016-23ef-4cdb-ab86-3055aff10636.png)
 
+2. Colocamos las coordenadas de 3 ciudades.
+
+![image](https://user-images.githubusercontent.com/58127103/127720679-a6515b87-8ea8-4dbd-bef4-a095a1b076e2.png)
+
+![location_sanFrancisco](https://user-images.githubusercontent.com/58127103/127720761-8fec6c21-7ced-406d-919e-f6771abf09b0.png)
+
+![location_quito](https://user-images.githubusercontent.com/58127103/127720817-7cfe7f7d-c490-496e-a814-17899e00903a.png)
+
+
 # Scrip_2
 
 Recolección de datos mediante track
