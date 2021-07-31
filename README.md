@@ -31,5 +31,15 @@ Recolección de datos mediante track
 
 ![couch_2](https://user-images.githubusercontent.com/58127103/127720460-09d08a8a-25b0-4edb-9f06-88193acdbd21.png)
 
+# Scrip_3
+
+1. Link del sitio web y selección de las etiquetas html
+
+![image](https://user-images.githubusercontent.com/58127103/127723954-17a72e5b-aa6d-4ba0-8792-097da44ca008.png)
+
+2. Limpieza de las etiquetas html
+
+![html_limpio](https://user-images.githubusercontent.com/58127103/127723976-7ea63b5d-174e-40b4-9fe1-c156e60d6d5c.png)
+
 
 
