@@ -6,7 +6,7 @@
 
 1. Colocamos las credenciales de la app de twitter
 
-![credenciales](https://user-images.githubusercontent.com/58127103/127719308-a821c016-23ef-4cdb-ab86-3055aff10636.png)
+
 
 2. Colocamos las coordenadas de 3 ciudades.
 
